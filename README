@@ -1,0 +1,4 @@
+World of Warcraft 1.12.1 AddOn Chat
+
+Da ich mich an die Klassenfarbe Blau für Schamanen gewöhnt habe empfand ich Pink als komisch, da das für mich Paladine sind. Darum werden Schamanen nun wieder in blau dargestellt.
+Außerdem konnte es dazu kommen, dass Charaktere in den SavedVariables abgespeichert wurden, obwohl ihre Klasse zu dem Zeitpunkt "unbekannt" war. Das bringt nichts und führte sogar dazu, dass beim erneuten auslesen der Klasse des Charakters dieser nicht mehr aktualisiert wurde. Nun werden unbekannte Klassen nicht mehr aufgenommen.
